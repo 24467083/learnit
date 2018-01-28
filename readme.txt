@@ -1,4 +1,4 @@
 Git is version control system.
 
-Git if free
+Git if free under GPL
 
